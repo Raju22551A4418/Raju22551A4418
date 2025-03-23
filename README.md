@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi there! I'm Rajkumar a BTech 3rd-year student passionate about Web Development, Data Science, Cloud Computing. I love building real-world projects and learning new technologies.</h2>
+<h2 align="left">👋 Hi there! I'm Rajkumar a BTech 3rd-year student passionate about Web Development, Data Science, Cloud Computing. I love building real-world projects and learning new technologies</h2>
 
 ###
 
